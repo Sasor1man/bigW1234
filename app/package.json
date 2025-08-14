@@ -11,6 +11,10 @@
     "@types/node": "^16.18.126",
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",
+<<<<<<< HEAD
+=======
+    "bootstrap": "^5.3.7",
+>>>>>>> f1e1e77 (feat creator app)
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-scripts": "5.0.1",

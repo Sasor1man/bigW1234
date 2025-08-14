@@ -1,4 +1,5 @@
 import React from 'react';
+<<<<<<< HEAD
 import logo from './logo.svg';
 import './App.css';
 
@@ -19,6 +20,15 @@ function App() {
           Learn React
         </a>
       </header>
+=======
+import Creator from './components/creator';
+import 'bootstrap/dist/css/bootstrap.min.css'
+
+function App() {
+  return (
+    <div >
+      <Creator/>
+>>>>>>> f1e1e77 (feat creator app)
     </div>
   );
 }
